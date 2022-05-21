@@ -11,9 +11,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eds-Python" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Eds-Python" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="Eds-Python" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Eds-Python" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Eds-R" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Eds-MySQL" height="90" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Eds-SQLServer" height="95" width="100" src="https://i.ibb.co/Sn893y0/imageedit-40-5247182447.png" />
 </div>            
   
 ##
